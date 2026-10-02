@@ -4,7 +4,7 @@
 <img src="https://badgen.net/badge/Read/the doc/blue" alt="doc"/>
 </a>
 
-Jim comprises a set of tools for estimating parameters of gravitational-wave sources thorugh Bayesian inference. THats very interesting right?
+Jim comprises a set of tools for estimating parameters of gravitational-wave sources thorugh Bayesian inference.
 At its core, Jim relies on the JAX-based sampler [flowMC](https://github.com/kazewong/flowMC),
 which leverages normalizing flows to enhance the convergence of a gradient-based MCMC sampler.
 
